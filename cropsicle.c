@@ -1,6 +1,6 @@
 /* -*- Mode: C; tab-width: 2; indent-tabs-mode: nil; c-basic-offset: 2 -*- */
 
-/* cropsicle.c - Minimal Growcut implementation
+/* cropsicle.c - Minimal GrowCut implementation
  * 
  * Copyright (C) 2014 Hans Petter Jansson
  *
@@ -34,7 +34,7 @@
  *
  * > convert image.jpg -channel rgba png32:image.png
  *
- * Perform the Growcut operation like this:
+ * Perform the GrowCut operation like this:
  *
  * > cropsicle image.png overlay.png output.png
  *
