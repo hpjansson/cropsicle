@@ -8,6 +8,8 @@ by Vladimir Vezhnevets and Vadim Konouchine [1].
 It lets you remove the background from an image with minimal input, cutting
 along irregular boundaries.
 
+[1] http://graphicon.ru/oldgr/en/publications/text/gc2005vk.pdf
+
 Build
 -----
 
@@ -34,4 +36,12 @@ the pixels are not transparent.
 
 Enjoy!
 
-[1] http://graphicon.ru/oldgr/en/publications/text/gc2005vk.pdf
+Example
+-------
+
+Example input and output images for the cropsicle invocation above:
+
+image.png:   http://hpjansson.org/temp/growcut/example/surf.png
+overlay.png: http://hpjansson.org/temp/growcut/example/surf-overlay.png
+output.png:  http://hpjansson.org/temp/growcut/example/surf-out.png
+
