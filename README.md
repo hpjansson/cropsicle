@@ -1,9 +1,10 @@
 Cropsicle
 =========
 
-Cropsicle is an implementation of the GrowCut algorithm described in the paper
-"GrowCut - Interactive Multi-Label N-D Image Segmentation By Cellular Automata"
-by Vladimir Vezhnevets and Vadim Konouchine [1].
+Cropsicle is a multithreaded C implementation of the GrowCut algorithm
+described in the paper "GrowCut - Interactive Multi-Label N-D Image
+Segmentation By Cellular Automata" by Vladimir Vezhnevets and Vadim
+Konouchine [1].
 
 It lets you remove the background from an image with minimal input, cutting
 along irregular boundaries.
