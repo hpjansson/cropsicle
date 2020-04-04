@@ -42,6 +42,6 @@ Example
 
 Example input and output images for the cropsicle invocation above:
 
-* [image.png](http://hpjansson.org/temp/growcut/example/surf.png)
-* [overlay.png](http://hpjansson.org/temp/growcut/example/surf-overlay.png)
-* [output.png](http://hpjansson.org/temp/growcut/example/surf-out.png)
+* [image.png](http://hpjansson.org/cropsicle/example/surf.png)
+* [overlay.png](http://hpjansson.org/cropsicle/example/surf-overlay.png)
+* [output.png](http://hpjansson.org/cropsicle/example/surf-out.png)
